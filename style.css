@@ -18,11 +18,3 @@ body {
     background-color: rgb(243, 241, 241);
 }
 
-.test {
-    display: inline;
-}
-
-.button {
-    border-style: outset;
-    border-radius: 1pxpx;
-}
